@@ -142,5 +142,5 @@ Usage: <class_name>.update(<_id>, <dictionary>)
 
 
 ## project developed by
-Akoth-Otieno
-Kibowen
+* **Akoth-Otieno**
+* **Kibowen**
